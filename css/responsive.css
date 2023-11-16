@@ -1,0 +1,222 @@
+@media (min-width:320px) and (max-width:575px) {
+
+    /* --------menu-part------- */
+    nav .logo {
+        margin-top: 6px !important;
+        font-size: 35px !important;
+    }
+
+    nav ul .button {
+        width: 100px;
+        margin-top: 10px;
+    }
+    nav ul li a::after{
+        display: none;
+    }
+
+    /* --------menu-part------- */
+
+
+    #banner .overlay .text h3 {
+        font-size: 17px;
+        margin-bottom: 10px;
+    }
+
+    #banner .overlay .text h2 {
+        font-size: 19px;
+        margin-bottom: 10px;
+    }
+
+    #banner .overlay .text p {
+        font-size: 14px;
+        width: 300px;
+    }
+
+
+
+    .st-text-block-details li span:first-child {
+        margin-right: -40px;
+    }
+
+    #about .button {
+        margin-bottom: 20px;
+    }
+
+
+
+
+    #portfolio .filter {
+        margin-left: -30px;
+    }
+
+
+
+    #blog .items .newss {
+        margin-bottom: 20px;
+    }
+
+
+
+
+    #footer .item2 {
+        margin-left: 0;
+    }
+
+
+    #footer .item1 .text .icon {
+        margin-bottom: 30px;
+    }
+
+
+}
+
+@media (min-width:576px) and (max-width:767px) {
+
+    /* --------menu-part------- */
+    nav .logo {
+        margin-top: 6px !important;
+    }
+    nav ul .button {
+        width: 100px;
+        margin-top: 10px;
+    }
+    nav ul li a::after{
+        display: none;
+    }
+
+    /* --------menu-part------- */
+
+
+    #banner .overlay .text h3 {
+        font-size: 26px;
+        margin-bottom: 20px;
+    }
+
+    #banner .overlay .text h2 {
+        font-size: 23px;
+        margin-bottom: 20px;
+    }
+
+    #banner .overlay .text p {
+        font-size: 17px;
+        width: 400px;
+    }
+
+
+
+    #about .button {
+        margin-bottom: 20px;
+    }
+
+
+
+
+    #portfolio .filter {
+        margin-left: 70px;
+    }
+
+
+
+    #blog .items .newss {
+        margin-bottom: 20px;
+    }
+
+
+
+
+    #footer .item2 {
+        margin-left: 0;
+    }
+
+
+    #footer .item1 .text .icon {
+        margin-bottom: 30px;
+    }
+
+
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+    /* --------menu-part------- */
+    nav .logo {
+        margin-top: 6px !important;
+    }
+    nav ul .button {
+        width: 100px;
+        margin-top: 10px;
+    }
+    nav ul li a::after{
+        display: none;
+    }
+
+    /* --------menu-part------- */
+
+
+    #banner .overlay .text h3 {
+        font-size: 26px;
+        margin-bottom: 20px;
+    }
+
+    #banner .overlay .text h2 {
+        font-size: 23px;
+        margin-bottom: 20px;
+    }
+
+    #banner .overlay .text p {
+        font-size: 17px;
+        width: 400px;
+    }
+
+    #about .ab {
+        width: 50%;
+    }
+
+    #about .img {
+        margin-top: 100px;
+    }
+
+    #about .button {
+        margin-bottom: 20px;
+    }
+
+
+    #services .box {
+        width: 50%;
+    }
+
+
+
+
+    #portfolio .filter {
+        margin-left: 0;
+    }
+
+
+
+    #blog .items .newss {
+        margin-bottom: 20px;
+    }
+
+    #blog .blog {
+        width: 50%;
+    }
+
+
+
+
+    #footer .item2 {
+        margin-left: 0;
+    }
+
+    #footer .foo {
+        width: 50%;
+    }
+
+
+    #footer .item1 .text .icon {
+        margin-bottom: 30px;
+    }
+
+
+}
