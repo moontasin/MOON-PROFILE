@@ -521,6 +521,8 @@ nav ul li:hover>ul {
 #about .img img {
   width: 100%;
   margin-bottom: 60px;
+  vertical-align: middle;
+  border-style: double;
 }
 
 .st-text-block.st-style1 .st-text-block-title {
