@@ -518,8 +518,13 @@ nav ul li:hover>ul {
   margin-top: 40px;
 }
 
+#about .img {
+  vertical-align: middle;
+  border-style: double;
+}
+
 #about .img img {
-  width: 100%;
+  width: 80%;
   margin-bottom: 60px;
   vertical-align: middle;
   border-style: double;
